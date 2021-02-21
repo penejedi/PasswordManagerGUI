@@ -12,7 +12,7 @@ pip install module
 
 ## Preview ##
 ### Start Page ###
-![](StartPage.png)
+![](Images/StartPage.png)
 
 ### Main Menu ###
-![](MainMenu.png)
+![](Images/MainMenu.png)
